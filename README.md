@@ -1,6 +1,3 @@
-# CA2
-Artificial Intelligence 
-
 # CCT College Dublin
 
 ## Assessment Cover Page
